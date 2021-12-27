@@ -1,0 +1,20 @@
+{
+  "name": "my_hello",
+  "version": "1.0.0",
+  "description": "Task1 Day27 Create NPM",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Novita69/my_hello.git"
+  },
+  "author": "Novita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Novita69/my_hello/issues"
+  },
+  "homepage": "https://github.com/Novita69/my_hello#readme"
+}
